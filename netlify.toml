@@ -2,3 +2,18 @@
   from = "/ec/nasabudget"
   to = "https://web.archive.org/web/20240929144148/https://docs.google.com/spreadsheets/d/e/2PACX-1vTU9FhDV4U6X4suHtvoiMLYDN-y56ipoGh-N7n9fNq7BW1PiMsx5fVlj10LsgvTYVbu3CiUDO_WD0We/pubhtml#"
   status = 301
+  
+[[redirects]]
+  from = "/ec/spacex"
+  to = "https://en.wikipedia.org/w/index.php?title=SpaceX&oldid=1248357278"
+  status = 301
+  
+[[redirects]]
+  from = "/ec/apollo"
+  to = "https://en.wikipedia.org/w/index.php?title=Apollo_program&oldid=1247536733"
+  status = 301
+  
+[[redirects]]
+  from = "/ec/spaceshuttle"
+  to = "https://en.wikipedia.org/w/index.php?title=Space_Shuttle&oldid=1246181937"
+  status = 301
