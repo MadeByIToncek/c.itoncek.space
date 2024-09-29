@@ -17,3 +17,8 @@
   from = "/ec/spaceshuttle"
   to = "https://en.wikipedia.org/w/index.php?title=Space_Shuttle&oldid=1246181937"
   status = 301
+
+[[redirects]]
+  from = "/ec/crs"
+  to = "https://en.wikipedia.org/w/index.php?title=Commercial_Resupply_Services&oldid=1245123990"
+  status = 301
