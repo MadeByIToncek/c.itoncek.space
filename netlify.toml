@@ -27,3 +27,8 @@
   from = "/ec/axiom"
   to = "https://www.theverge.com/2021/1/26/22250327/space-tourists-axiom-private-crew-iss-price"
   status = 301
+
+[[redirects]]
+  from = "/ec/spacereport"
+  to = "https://planet4589.org/space/jsr/back/news.827.txt"
+  status = 301
