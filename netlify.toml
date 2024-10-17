@@ -37,3 +37,8 @@
   from = "/ec/mechazilla"
   to = "https://phys.org/news/2021-08-musk-mechazilla-starship-super-heavy.amp"
   status = 301
+
+[[redirects]]
+  from = "/fy/podhladinou"
+  to = "https://c.itoncek.space"
+  status = 301
