@@ -44,6 +44,6 @@
   status = 301
   
 [[redirects]]
-  from = "/SPC/tag/prosinec"
-  to = "https://github.com/IToncek/StellariumPanoramaCreator/tree/prosinec"
-  status = 301
+  from = "/maturitni_prace/lerp_1"
+  to = "about:blank"
+  status = 200
