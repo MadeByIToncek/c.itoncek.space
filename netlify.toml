@@ -42,3 +42,8 @@
   from = "/fy/podhladinou"
   to = "https://youtu.be/cvlwqcjeBag"
   status = 301
+  
+[[redirects]]
+  from = "/SPC/tag/prosinec"
+  to = "https://github.com/IToncek/StellariumPanoramaCreator/tree/prosinec"
+  status = 301
