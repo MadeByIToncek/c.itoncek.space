@@ -46,4 +46,9 @@
 [[redirects]]
   from = "/maturitni_prace/lerp_1"
   to = "https://youtu.be/ZneMvHd4gDM"
-  status = 200
+  status = 301
+  
+[[redirects]]
+  from = "/maturitni_prace/lerp_2"
+  to = "https://youtu.be/o8i5Yshj-7c"
+  status = 301
