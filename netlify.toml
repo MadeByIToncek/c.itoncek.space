@@ -52,3 +52,18 @@
   from = "/maturitni_prace/lerp_2"
   to = "https://youtu.be/o8i5Yshj-7c"
   status = 301
+  
+[[redirects]]
+  from = "/maturitni_prace/scenar_2025"
+  to = "https://docs.google.com/document/d/1LrFz_WWtBwUIRWXh68HHOMMKKgycn_Zg_JJaRyuu7VA/edit?usp=sharing"
+  status = 301
+  
+[[redirects]]
+  from = "/maturitni_prace/scenar_prosinec"
+  to = "https://docs.google.com/document/d/1JPl711uDqc8OZ5UnHxu94CLSZIW5Xl_HSoQP6a3T4z4/edit?usp=sharing"
+  status = 301
+  
+[[redirects]]
+  from = "/maturitni_prace"
+  to = "https://mp.itoncek.space/index.pdf"
+  status = 301
